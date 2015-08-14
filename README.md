@@ -3,7 +3,7 @@ A URL Cleaner for PHP
 
 # Variables
 <code>$host</code> is the domain (http://www.google.com)
-<code>$path</code> is the path from the domain (/search?q=Hello+World)
+<code>$path/$params</code> is the path from the domain (/search?q=Hello+World)
 
 #Setup
 To get started, you can either view the examples within this repo or copy and paste the code below
